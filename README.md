@@ -1,110 +1,133 @@
 <div align="center">
 
-# 🌟 Welcome to Bhavya-Datla's Profile 🌟
+# Hi, I'm Bhavya Datla 👋  
+### Final-Year CSE Student | Aspiring Software Developer | Web & Frontend Developer
 
-<p><em>Full-stack developer passionate about creating amazing web experiences; skilled in Data Structures, Algorithms, Cloud, AI/ML, and Full-Stack Development.</em></p>
+<p>
+I build scalable and user-friendly applications with a strong foundation in <b>Java, SQL, DSA</b> and modern development tools.  
+Currently focused on building real-world projects and preparing for Software Developer / Web Developer / Frontend roles.
+</p>
 
-<img src="https://img.shields.io/badge/Status-Available_for_collaboration-brightgreen" alt="Status" />
-<img src="https://img.shields.io/badge/Focus-Web_Development-blue" alt="Focus" />
+📍 Tenali, Andhra Pradesh, India  
+📧 bhavyareddydatla@gmail.com | 📱 +91 9390541618  
+
+<p>
+<a href="https://www.linkedin.com/in/bhavyadatla/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-bhavyadatla-blue?style=for-the-badge&logo=linkedin"></a>
+<a href="https://github.com/bhavyadatla" target="_blank"><img src="https://img.shields.io/badge/GitHub-bhavyadatla-black?style=for-the-badge&logo=github"></a>
+<a href="https://bhavyadatlaportfolio.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Vercel-green?style=for-the-badge&logo=vercel"></a>
+<a href="https://leetcode.com/u/bhavyadatla/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-bhavyadatla-orange?style=for-the-badge&logo=leetcode"></a>
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=bhavyadatla&style=for-the-badge&color=blueviolet" alt="profile views" />
 
 </div>
 
-<hr>
+---
 
-## 🔭 I'm currently working on
+## 👩‍💻 About Me
+- 🎓 Final-year **B.Tech CSE** student at **VVIT**
+- 💡 Strong in **Java, SQL, DSA, OOP, DBMS**
+- 🛠️ Interested in **Software Development, Web Development and Frontend**
+- 🔭 Working on projects like **ATL Mentorship Platform**, **SPA System**, **CareerForge**, and **NeoGraph QA**
+- 🤝 Open to internships / full-time roles as **SDE / Web Developer / Frontend Developer**
 
-<div align="center"><p>Working on a new open-source project to simplify API integrations; actively involved in projects across 553+ institutions.</p></div>
+---
 
-## 🌱 I'm currently learning
+## 🧠 Skills & Tools
 
-<div align="center"><p>Learning Rust programming and WebAssembly to improve performance in web applications.</p></div>
+### 💻 Programming & Core CS
+- **Java**, Python, C
+- Data Structures & Algorithms, OOP
+- DBMS, Operating Systems
+- Problem Solving & Debugging
 
-## 👀 I'm interested in
+### 🌐 Web / Frontend
+- HTML, CSS, JavaScript
+- React.js *(if you use React Native, keep both)*
+- Responsive UI, API Integration
 
-<div align="center"><p>Open-source contribution, UI/UX design, cloud architectures, tech blogs, and building scalable, innovative solutions.</p></div>
+### 🗄️ Database
+- SQL, MySQL
+- MongoDB *(if used)*
 
-## 👀 Visitor Count
+### 🛠 Tools
+- Git & GitHub
+- VS Code, Postman
+- Android Studio
 
-<!-- ⚠️ Important: Replace 'bhavyadatla' with your actual GitHub username in the URL below -->
-<p align="center">
-  <img src="https://profile-counter.glitch.me/bhavyadatla/count.svg" />
-  <br>Thank you for visiting my profile! Come back soon!
-</p>
+---
+
+## 🚀 Featured Projects
+> Here are some projects I'm proud of (more available in repositories):
+
+### ✅ ATL Mentorship Platform
+A mentorship management and dashboard platform designed for large-scale academic use cases.  
+**Highlights:** Scalable workflows, dashboard UI, structured data handling.
+
+### ✅ Student Performance Analysis (SPA) System
+Role-based platform for students/faculty/admin including analytics, attendance and assignment workflows.  
+**Highlights:** Multi-role dashboards, OTP-based authentication, performance tracking.
+
+### ✅ CareerForge – Resume Builder
+Web application to create resumes dynamically with templates and structured form workflow.  
+**Highlights:** Form validation, CRUD operations, export-ready resume output.
+
+### ✅ NeoGraph QA (Current)
+Testing-focused project/workflow that strengthens QA fundamentals like test cases, defect tracking and reports.  
+**Highlights:** Functional testing, bug reporting, regression testing practices.
+
+📌 *I'll keep improving these projects with clean documentation, deployments and optimized code.*
+
+---
+
+## 📌 What I'm Currently Working On
+- Improving GitHub project documentation (READMEs, screenshots, usage)
+- Deployment of projects on **Vercel / Netlify / Render**
+- Strengthening DSA (LeetCode practice)
+- Preparing for interviews (SDE / Web / Frontend)
+
+---
+
+## 🏅 Certifications (Highlights)
+- Developing Front End Apps with React — IBM  
+- Programming in Java — NPTEL (IIT Kharagpur)  
+- Microsoft Azure SQL — Microsoft  
+- Python Basics for Data Science — IBM  
+- Software Testing — NPTEL (IIT Kharagpur)  
+- Cloud Computing — NPTEL (IIT Kharagpur)
+
+---
 
 ## 📊 GitHub Stats
 
-<!-- ⚠️ Important: Replace 'bhavyadatla' with your actual GitHub username in the URL below -->
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bhavyadatla&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=bhavyadatla&show_icons=true&include_all_commits=true&count_private=true" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhavyadatla&layout=compact&langs_count=10" />
+
 </div>
 
-## 🔝 Most Used Languages
-
-<!-- ⚠️ Important: Replace 'bhavyadatla' with your actual GitHub username in the URL below -->
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhavyadatla&layout=compact&langs_count=10&theme=radical"/>
-</div>
+---
 
 ## 🔥 Contribution Streak
 
-<!-- ⚠️ Important: Replace 'bhavyadatla' with your actual GitHub username in the URL below -->
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhavyadatla&theme=radical&hide_border=false" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=bhavyadatla" />
 </div>
 
-## 💻 Tech Stack
+---
+
+## 🤝 Connect With Me
+- 📧 Email: **bhavyareddydatla@gmail.com**
+- 💼 LinkedIn: https://www.linkedin.com/in/bhavyadatla/
+- 🌐 Portfolio: https://bhavyadatlaportfolio.vercel.app/
+- 💻 GitHub: https://github.com/bhavyadatla
+- 🧩 LeetCode: https://leetcode.com/u/bhavyadatla/
+
+---
 
 <div align="center">
 
-### 🎨 Frontend
-
-<img src="https://img.shields.io/badge/-React-05122A?style=for-the-badge&color=ff69b4"> <img src="https://img.shields.io/badge/-Next.js-05122A?style=for-the-badge&color=ff69b4"> <img src="https://img.shields.io/badge/-HTML5-05122A?style=for-the-badge&color=ff69b4"> <img src="https://img.shields.io/badge/-CSS3-05122A?style=for-the-badge&color=ff69b4"> <img src="https://img.shields.io/badge/-Tailwind-05122A?style=for-the-badge&color=ff69b4">
-
-### ⚙️ Backend
-
-<img src="https://img.shields.io/badge/-Node.js-05122A?style=for-the-badge&color=4169e1"> <img src="https://img.shields.io/badge/-MongoDB-05122A?style=for-the-badge&color=4169e1"> <img src="https://img.shields.io/badge/-PostgreSQL-05122A?style=for-the-badge&color=4169e1"> <img src="https://img.shields.io/badge/-MySQL-05122A?style=for-the-badge&color=4169e1">
-
-### 🚀 DevOps
-
-<img src="https://img.shields.io/badge/-AWS-05122A?style=for-the-badge&color=9370db"> <img src="https://img.shields.io/badge/-GCP-05122A?style=for-the-badge&color=9370db">
-
-### 🧠 AI/ML
-
-<img src="https://img.shields.io/badge/-NumPy-05122A?style=for-the-badge&color=00CED1"> <img src="https://img.shields.io/badge/-Pandas-05122A?style=for-the-badge&color=00CED1">
-
-### 📱 Mobile
-
-<img src="https://img.shields.io/badge/-Flutter-05122A?style=for-the-badge&color=3CB371">
-
-### 💬 Languages
-
-<img src="https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&color=FFA500"> <img src="https://img.shields.io/badge/-TypeScript-05122A?style=for-the-badge&color=FFA500"> <img src="https://img.shields.io/badge/-Python-05122A?style=for-the-badge&color=FFA500"> <img src="https://img.shields.io/badge/-Java-05122A?style=for-the-badge&color=FFA500"> <img src="https://img.shields.io/badge/-C-05122A?style=for-the-badge&color=FFA500">
-
-</div>
-
-## 🌐 Socials
-
-<div align="center">
-
-<a href="https://github.com/bhavyadatla"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&color=9a6bdf"></a> <a href="https://www.linkedin.com/in/bhavya-datla-26935b259/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=df6b9a"></a> 
-
-</div>
-
-## 📫 How to reach me
-
-<div align="center">
-
-**Email:** bhavyareddydatla8@gmail.com
-
-</div>
-
-<div align="center">
-
-<!-- ⚠️ Important: Replace 'bhavyadatla' with your actual GitHub username in the URLs below -->
-<img src="https://komarev.com/ghpvc/?username=bhavyadatla&style=for-the-badge&color=blueviolet" alt="Profile views"/>
-
-<img src="https://img.shields.io/github/followers/bhavyadatla?style=for-the-badge&color=ff69b4" alt="Followers"/>
-
-<p>🌈 <i>Let's connect and build amazing things together!</i> 🚀</p>
+✨ *Thanks for visiting my profile! I’m open to collaborations, internships, and referral opportunities.* 🚀
 
 </div>
