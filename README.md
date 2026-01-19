@@ -43,12 +43,12 @@ Currently focused on building real-world projects and preparing for Software Dev
 
 ### 🌐 Web / Frontend
 - HTML, CSS, JavaScript
-- React.js *(if you use React Native, keep both)*
+- React.js / React Native (Basics)
 - Responsive UI, API Integration
 
 ### 🗄️ Database
 - SQL, MySQL
-- MongoDB *(if used)*
+- MongoDB (Basics)
 
 ### 🛠 Tools
 - Git & GitHub
@@ -73,10 +73,10 @@ Web application to create resumes dynamically with templates and structured form
 **Highlights:** Form validation, CRUD operations, export-ready resume output.
 
 ### ✅ NeoGraph QA (Current)
-Testing-focused project/workflow that strengthens QA fundamentals like test cases, defect tracking and reports.  
-**Highlights:** Functional testing, bug reporting, regression testing practices.
+Testing-focused project that strengthens QA fundamentals like test cases, defect tracking and reports.  
+**Highlights:** Functional testing, bug reporting, regression testing.
 
-📌 *I'll keep improving these projects with clean documentation, deployments and optimized code.*
+📌 *I keep improving these projects with clean documentation, deployments and optimized code.*
 
 ---
 
@@ -102,8 +102,10 @@ Testing-focused project/workflow that strengthens QA fundamentals like test case
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=bhavyadatla&show_icons=true&include_all_commits=true&count_private=true" />
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhavyadatla&layout=compact&langs_count=10" />
+<!-- ✅ FIXED STATS CARD (more reliable, avoids total commits error) -->
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=bhavyadatla&show_icons=true&cache_seconds=86400" />
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhavyadatla&layout=compact&langs_count=10&cache_seconds=86400" />
 
 </div>
 
@@ -112,7 +114,7 @@ Testing-focused project/workflow that strengthens QA fundamentals like test case
 ## 🔥 Contribution Streak
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=bhavyadatla" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=bhavyadatla&cache_seconds=86400" />
 </div>
 
 ---
